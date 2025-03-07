@@ -1,1 +1,3 @@
 # EyezOnYou
+templete and static folder is coming soon ...
+for now just backend code is uploaded.
